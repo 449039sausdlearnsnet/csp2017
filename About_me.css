@@ -1,0 +1,30 @@
+body{
+  background-image: url(https://tse1.mm.bing.net/th/id/OIP.oHMvizaT92Nj1uUwfsQ5lgHaEo?pid=ImgDet&rs=1)
+}
+h1{
+height: 100px;
+width: 300px;
+border: 2px dotted lightblue;
+margin: auto;
+color: lightblue;
+text-align: center;
+font-family: 'Barrio', cursive;
+}
+textarea{
+font-family: 'Barrio', cursive;
+color: white;
+background-color: blue;
+border: 2px dotted white
+}
+li a{
+font-family: 'Barrio', cursive;
+color: white
+}
+img{
+  color: white;
+border: 2px dotted white
+}
+p{
+  color: white;
+border: 2px dotted white
+}
