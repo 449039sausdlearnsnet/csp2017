@@ -1,0 +1,18 @@
+html{
+background-image: url(https://th.bing.com/th/id/R.ce6e0a3d033ef7b4f694dd23b38bc980?rik=0q5QqYuDSA0j8g&pid=ImgRaw&r=0&sres=1&sresct=1)
+}
+h1{
+  border: 4px double  blue; 
+  color: blueviolet;
+  text-align: center;
+width: 20
+}
+li a{
+  color: white;
+  margin: auto; 
+}
+p{
+  border: 4px dotted blueviolet;
+  background-color: blue;
+  color: white
+  }
